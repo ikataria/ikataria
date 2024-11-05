@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.linkedin.com/in/imohitkataria/)
-<h1 align="center">Hi 👋, I'm Mohit Kataria</h1>
+<h1 align="center">Namaste 🙏, I'm Mohit Kataria</h1>
 <h3 align="center">MERN Developer in Canada</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikataria" alt="ikataria" /></a> </p>
